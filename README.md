@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="_image.webp" width="120">
-</p>
-
 ### おはよう
 
 <p align="left">
