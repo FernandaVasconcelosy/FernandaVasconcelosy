@@ -1,7 +1,7 @@
-# おはよう! 👋 Eu sou a Fernanda Vasconcelos!
+### おはよう
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI4YmY0ZDM0ZDY0ZDY0ZDY0ZDY0ZDY0ZDY0ZDY0ZDY0ZDY0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/11Y9MWvGf8xueQ/giphy.gif" width="200">
+<p align="left">
+  <sub><i>フェルナンダ ・ ヴァスコンセロス (Ferunanda Vasukonserosu)</i></sub>
 </p>
 
 > 💡 **"Aprendendo a aprender"** — Do zero ao código, explorando a lógica e construindo o futuro um commit por vez.
@@ -12,7 +12,7 @@
 * 🎯 **Linguagem C:** Desbravando ponteiros, memória e lógica pura.
 * 🐧 **Linux (Ubuntu):** Vivendo no terminal e automatizando tudo.
 * 🏫 **42 Pisciner:** No meio do desafio intenso da Piscina!
-* 🐈 **Cat Mom:** Gerenciando 6 gatos (os verdadeiros donos do teclado).
+* 🐈 **Cat Mom:** Gerenciando 6 gatos.
 
 ---
 
