@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="NOME_DO_ARQUIVO_QUE_VOCE_SUBIU" width="120">
+</p>
+
 ### おはよう
 
 <p align="left">
